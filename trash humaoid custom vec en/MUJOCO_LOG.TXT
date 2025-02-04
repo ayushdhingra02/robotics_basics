@@ -1,0 +1,3 @@
+Sun Sep 15 06:23:53 2024
+WARNING: mju_openResource: unknown file 'C:\Users\1703a\PycharmProjects\Robotics\humaoid custom vec en\robot.xml'
+
